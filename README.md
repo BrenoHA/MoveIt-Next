@@ -2,6 +2,11 @@
   🏃‍♂️ MoveIt
 </h1>
 
+Para acessar o projeto basta clicar no link abaixo!
+<br /><br />
+https://move-it-next-brenoha.vercel.app/
+
+<br />
 
 ## 💻 Projeto
 
@@ -16,8 +21,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React.js](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
 
+Deploy:
 
-
+- [Vercel](https://vercel.com/)
 
 
 
